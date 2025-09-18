@@ -1,0 +1,7 @@
+Iced beverages
+1. Soda
+2. Gingerale
+3. Coke
+4. Coffee
+5. Tea
+6. Gatorade
